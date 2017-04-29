@@ -5,6 +5,10 @@ public class GitTest02 {
 		// TODO Auto-generated method stub
 
 		System.out.println("vanuit Gittest02 2215");
+		System.out.println("vanuit Gittest02 2230");
+		System.out.println("vanuit Gittest02 2245");
+		
+		
 	}
 
 }
